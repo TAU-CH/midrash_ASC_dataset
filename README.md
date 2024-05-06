@@ -6,8 +6,6 @@ The dataset comprises document images from 55 different manuscripts provided by 
 
 # Description of each file and folder included in this repository.
 
-## Files and Folders
-
 - **ASC_dataset**: This folder contains 220 images sourced from 55 manuscripts. Each manuscript contributes 4 pages, and the images are named sequentially following the "manuscriptname_pagename" convention.
 
 - **mapping_sequentialnames_to_metadata.txt**: This text file provides a mapping between the sequential names of the images and their metadata. The structure is formatted as "manuscriptname pagename date region city".
