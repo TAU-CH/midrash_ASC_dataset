@@ -12,9 +12,9 @@ The dataset comprises document images from 55 different manuscripts provided by 
 
 - **mapping_sequentialnames_to_metadata.txt**: This text file provides a mapping between the sequential names of the images and their metadata. The structure is formatted as "manuscriptname pagename date region city".
 
-- **ASC_dataset_metadata.xlsx**: Prepared by paleographer Daria Vasyutinsky, this Excel file contains detailed metadata for each image. The metadata compilation follows guidelines established by Judith Olsowy.
+- **ASC_dataset_metadata.xlsx**: Prepared by paleographer Daria Vasyutinsky, this Excel file contains detailed metadata for each image. The metadata compilation follows guidelines established by Judith Olszowy-Schlanger.
 
-- **textregion_and_textline_detections_in_coco_format.json**: This JSON file includes bounding box coordinates for the main text regions and the text lines within these regions across the document images, formatted in COCO (Common Objects in Context) format.
+- **textregion_and_textline_detections_in_coco_format.json**: This JSON file includes bounding box coordinates for the main text regions and the text lines within these regions across the document images, formatted in COCO format.
 
 - **visualize_textregion_and_textline_detections.py**: This Python script visualizes the text region and text line bounding boxes on the images.
 
