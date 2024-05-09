@@ -4,8 +4,7 @@ import random
 import cv2
 
 '''
-Generate bounding box visualizations for the Ashkenazi Square Clustering (ASC) dataset using the
-COCO annotations
+Generate bounding box visualizations for the Ashkenazi Square Clustering (ASC) dataset using the annotations from textregion_and_textline_detections.json
 '''
 
 def load_coco_file(coco_file):
@@ -60,7 +59,7 @@ def get_parent_image_id(text_region_filename):
 image_folder = 'path to the folder containing images'
 image_folder_path = os.path.abspath(image_folder)
 input_image_filename = 'input file name'  
-merged_coco_file = 'path to the merged annotations coco file'
+merged_coco_file = 'path to the annotations file'
 
 
 coco_data = load_coco_file(merged_coco_file)
