@@ -1,7 +1,6 @@
 "000_000" "BNF Hébr. 4" "Bible_A_T_(hébreu)__btv1b10548355g_407.jpeg" "1286" "null" "null"
 "001_000" "BL Ar. Or. 2" "BL_1216_England_Fol038v_page82.jpg" "1216" "England" "null"
 "002_000" "BNF Hébreu 85" "Bible_A_T_Prophètes_(hébreu)__btv1b10539607g_229.jpeg" "null" "null" "null"
-"002_001" "BNF Hébreu 85" "Bible_A_T_Prophètes_(hébreu)__btv1b10539607g_230.jpeg" "null" "null" "null"
 "003_000" "BnF Hébreu 44" "Bible_A_T_Pentateuque-Hapt_arah-Megillôt_(hébreu)__btv1b10539997b_91.jpeg" "1303" "France" "Paris"
 "004_000" "BSB Cod.hebr. 2" "v2_bsb00036307_00650_full_full_0_default.jpg" "2nd half of 13th century" "Germany" "null"
 "005_000" "BSB Cod. Hebr. 410" "BSB_cod_Hebr_410_Fol200r_page409(1).jpg" "13th-14th century" "null" "null"
