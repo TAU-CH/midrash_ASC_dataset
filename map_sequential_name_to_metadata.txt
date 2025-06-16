@@ -30,7 +30,6 @@
 "032_000" "Hamburge Levy 19" "Hamburge_Levy19_1309_Brussels_Fol146r_page301.jpg" "1309" "Germany" "Brussels"
 "033_000" "M 1106" "Kalonymus_Bible_Wroclaw_1237_Germany_page306.jpg" "1237" "Germany" "null"
 "034_000" "Ms. or. fol. 1211 (ERFURT 1)" "Ms. or. fol. 1211 ERFURT 1 6r.jpeg" "1343" "Germany" "null"
-"035_000" "Ms. or. fol. 1214" "Ms. or. fol. 1214 275r.jpeg" "1200" "Germany" "null"
 "040_000" "BSB Cod. hebr. 212" "v2_bsb00036337_00109_full_full_0_default.jpg" "13th cent" "Germany" "null"
 "041_000" "Cod. Parm. 1854" "Parma1854_leaf127_page132.jpg" "13th – 14th cent" "France" "null"
 "042_000" "NLI Ms. Heb. 34°5827" "NLI_Heb34_5827_13thcent_Ashkenaz_page28.jpg" "13th cent" "England" "null"
